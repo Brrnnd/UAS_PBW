@@ -1,0 +1,30 @@
+
+  .hero {
+    height: 100vh; /* Full height layar */
+  }
+
+  .carousel img {
+    height: 300px; /* Atur tinggi gambar di carousel */
+    object-fit: cover;
+  }
+
+  body {
+    margin: 0;
+    padding: 0;
+  }
+
+  .carousel-control-next-icon {
+    background-color: black; 
+    width: 50px;
+    height: 50px;
+    background-size: 100%; 
+  }
+
+  .carousel-control-prev-icon {
+    background-color: black; 
+    width: 50px;
+    height: 50px;
+    background-size: 100%; 
+  }
+
+  
